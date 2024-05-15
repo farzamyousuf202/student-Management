@@ -1,0 +1,22 @@
+{
+  "name": "student-management",
+  "version": "1.0.0",
+  "description": "student management",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "farzam yousuf",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.11"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.20",
+    "undici-types": "^5.26.5"
+  }
+}
